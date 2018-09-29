@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/bravedavid/tw-plugin-test",
+	"description": "summary of the plugin's purpose",
+	"author": "davidhx",
+	"version": "0.0.1",
+	"core-version": ">=5.0.8",
+	"source": "https://github.com/bravedavid/tw-plugin-test.git",
+	"plugin-type": "plugin"
+}
